@@ -1,0 +1,11 @@
+# Site settings
+title: Magnet.me | Blog
+email: info@magnet.me
+description: On this blog we share our thoughts and experiences.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://blog.magnet.me" # the base hostname & protocol for your site
+twitter_username: magnetdotme
+github_username:  magnetme
+
+# Build settings
+markdown: kramdown
