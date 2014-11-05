@@ -1,0 +1,61 @@
+$red: #cc3c3c;
+$white: #ffffff;
+//This isn't actually black
+$black: #292e33;
+$gray-darker: #4b5055;
+$gray-dark: #64696e;
+$gray: #cccccc;
+$gray-medium: #a2a2a2;
+$gray-light: #e6e6e6;
+$gray-lighter: #f2f2f2;
+
+$green : #00A550;
+$blue: #1582EF;
+$yellow: #FFD659;
+$gold: #FFD659;
+
+$text-color: $black;
+$brand-success : $green;
+$brand-primary: $red;
+$brand-alternate: darken($brand-primary, 20%);
+$notification-blue: $blue;
+
+$body-bg: $gray-light;
+$navbar-inverse-bg: $white;
+
+$newItemBg: mix($red, $white, 10%);
+$newItemHoverBg: mix($red, $white, 15%);
+$itemHoverBg: $gray-lighter;
+
+$badge-bg: $red;
+$btn-primary-bg: $red;
+$btn-default-bg: $gray-darker;
+$btn-default-color: $white;
+$btn-default-border: darken($btn-default-bg, 5%);
+$btnLightBg : $gray-lighter;
+$btnLightColor: $text-color;
+$btnLightBorder: $gray;
+$btnGrayBg : $gray-light;
+$btnGrayColor: $text-color;
+$btnGrayBorder: $gray;
+$btnWhiteBg : $white;
+$btnWhiteColor: $text-color;
+$btnWhiteBorder: $gray;
+
+$input-color: $black;
+$input-color-placeholder: $gray;
+
+$btn-primary-bg: $red;
+
+
+$dropdownHeaderColor: $red;
+
+$link-color: $red;
+$external-link-color: $gray-dark;
+$action-link-color: $blue;
+$list-link-color: $gray-dark;
+
+$facebook-blue: #3b5998;
+$twitter-blue: #55ACEE;
+
+

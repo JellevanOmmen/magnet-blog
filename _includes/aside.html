@@ -1,0 +1,25 @@
+<div class="blog-sidebar">
+	<div class="sidebar-module sidebar-module-inset">
+		<h4>About</h4>
+		<p>Network for students, graduates and employers that delivers a 180 degree turnaround of the recruitment process.</p>
+	</div>
+
+	<div class="sidebar-module">
+		<h4>Recent stories</h4>
+		{% for post in site.posts %}
+			<ul class="list-unstyled">
+				<a href="">{{ post.title }}
+			</ul>
+		{% endfor %}
+	</div>
+
+
+	<div class="sidebar-module">
+		<h4>Meet us on:</h4>
+		<ol class="list-unstyled">
+			<li><a href="https://github.com/magnetme">GitHub</a></li>
+			<li><a href="https://twitter.com/magnetdotme">Twitter</a></li>
+			<li><a href="https://www.facebook.com/magnetdotme">Facebook</a></li>
+		</ol>
+	</div>
+</div><!-- /.blog-sidebar -->
