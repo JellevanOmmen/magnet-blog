@@ -1,25 +1,45 @@
-<div class="blog-sidebar">
-	<div class="sidebar-module sidebar-module-inset">
+<aside class="blog-sidebar">
+
+	<section class="sidebar-module sidebar-module-inset">
+		<form action="http://google.com/search" method="get">
+		  	<fieldset role="search">
+				<div class="input-group">	
+		    		<input type="hidden" name="q" value="site:blog.magnet.me">
+		    		<input class="form-control" type="search" name="q" results="0" placeholder="Search">
+					<span class="input-group-btn">
+				        <button class="btn btn-default" type="button"><span class="fa fa-search"></span></button>
+				    </span>
+				  </div>
+			</fieldset>
+		</form>
+	<section class="sidebar-module sidebar-module-inset">
+
+	<section class="sidebar-module sidebar-module-inset">
 		<h4>About</h4>
 		<p>Network for students, graduates and employers that delivers a 180 degree turnaround of the recruitment process.</p>
-	</div>
+	</section>
 
-	<div class="sidebar-module">
+	<section class="sidebar-module">
 		<h4>Recent stories</h4>
 		{% for post in site.posts %}
 			<ul class="list-unstyled">
 				<a href="{{ post.url }}">{{ post.title }}
 			</ul>
 		{% endfor %}
-	</div>
+	</section>
+
+	<section class="sidebar-module">
+		<h4>Topics</h4>
+		 {{ site | tag_cloud }}
+	</section>
 
 
-	<div class="sidebar-module">
+	<section class="sidebar-module">
 		<h4>Meet us on:</h4>
 		<ol class="list-unstyled">
 			<li><a href="https://github.com/magnetme">GitHub</a></li>
 			<li><a href="https://twitter.com/magnetdotme">Twitter</a></li>
 			<li><a href="https://www.facebook.com/magnetdotme">Facebook</a></li>
 		</ol>
-	</div>
-</div><!-- /.blog-sidebar -->
+	</section>
+</aside><!-- /.blog-sidebar -->

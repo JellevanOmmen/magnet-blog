@@ -4,6 +4,7 @@ title:  "Welcome to Magnet.me!"
 date:   2014-11-04 20:47:24
 categories: jekyll update
 author: Alex Nederlof
+tags: [Some tag, Another tag]
 ---
 Welcome to the first Magnet.me blog post. It's pretty awesome.
 

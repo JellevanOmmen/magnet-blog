@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Magnet.me!"
+title:  "Another Great blog post"
 date:   2014-11-04 20:47:24
 categories: jekyll update
 author: Alex Nederlof
+tags: [Tag 1, Tag 2, Another Tag]
 ---
 Welcome to the first Magnet.me blog post. It's pretty awesome.
 
