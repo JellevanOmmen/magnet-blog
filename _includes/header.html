@@ -1,12 +1,21 @@
-<header class="blog-masthead">
+<header class="page-header">
       <div class="container">
+      	<a class='logo' href="/">
+      		<img src="/images/magnet_white_logo_2x.png">
+      	</a>
         <nav class="blog-nav">
+			<!-- {% for page in site.pages %}
 			<a class="blog-nav-item active" href="{{ site.baseurl }}/">{{ site.title }}</a>
-			{% for page in site.pages %}
 	          {% if page.title %}
 	          <a class="blog-nav-item" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
 	          {% endif %}
-	        {% endfor %}			
+	        {% endfor %}	 -->	
+	        <a class="btn btn-link active">Editorial</a>	
+	        <a class="btn btn-link">Labs</a>
+
+	        <div class="pull-right">
+	        	<a class="btn btn-danger" href='https://magnet.me'>Go to Magnet.me</a>
+	        </div>	        
     	</nav>
 	</div>
 </header>
