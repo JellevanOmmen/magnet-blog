@@ -13,4 +13,14 @@ layout: postPage
     {{ content }}
   </article>
 
+  <footer>
+  	{% comment %}
+  		From: http://simplesharingbuttons.com/
+  	{% endcomment %}
+  	<ul class="share-buttons">
+	<li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fblog.magnet.me&t=The%20blog%20title" target="_blank" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&t=' + encodeURIComponent(document.URL)); return false;"><img src="/images/flat_web_icon_set/color/Facebook.png"></a></li>
+	<li><a href="https://twitter.com/intent/tweet?source=http%3A%2F%2Fblog.magnet.me&text=The%20blog%20title:%20http%3A%2F%2Fblog.magnet.me&via=magnetdotme" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20'  + encodeURIComponent(document.URL)); return false;"><img src="/images/flat_web_icon_set/color/Twitter.png"></a></li>
+	<li><a href="http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fblog.magnet.me&title=The%20blog%20title&summary=A%20description%20you%20wouldn't%20believe&source=http%3A%2F%2Fblog.magnet.me" target="_blank" title="Share on LinkedIn" onclick="window.open('http://www.linkedin.com/shareArticle?mini=true&url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><img src="/images/flat_web_icon_set/color/LinkedIn.png"></a></li>
+</ul>
+  </footer>
 </div>
