@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'liquid', '2.6.1'
 gem 'jekyll'
-gem 'bootstrap-sass', '~> 3.3.0'
 gem 'autoprefixer-rails'
 gem 'jekyll-tagging'
