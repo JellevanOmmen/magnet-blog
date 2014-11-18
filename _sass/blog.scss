@@ -20,28 +20,8 @@
 			margin-top: 150px;
 		}
 
-		.blog-nav {
-			width: inherit;
-			bottom: 0;
-			position: absolute;
-
-			a, a:visited {
-				color: $white;								
-			}
-
-			a:hover {
-				text-decoration: none;
-			}
-
-			.btn-link {
-				/* this pushes the buttons down
-				and the red butto on the right up */
-				
-				&.active {
-					border-bottom: 3px solid $white;
-				}
-			}
-
+		.toMagnetMe {
+			margin-top: 12px;		
 		}
 	}
 }
