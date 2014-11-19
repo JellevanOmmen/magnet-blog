@@ -17,3 +17,12 @@
 .sidebar-module-inset ol:last-child {
 	margin-bottom: 0;
 }
+
+.aside-search {
+	@media screen and (-webkit-min-device-pixel-ratio:0) {  
+		.fa-search {
+			/* hack to make it pixel perfect in webkit browsers. Frkn CSS. */
+			line-height: 20px;
+		}	
+	}	
+}

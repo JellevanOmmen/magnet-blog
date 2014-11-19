@@ -44,10 +44,14 @@
 		.headerContent {
 			position: absolute;
 			bottom: 3px;
+			left: 0;
+			right: 0;
+			z-index: 1;
+			margin: 0 auto;
 
 			h1, a, a[href] {
 				color: $white;
-				text-shadow: 2px 3px 3px rgba(0,0,0,0.3);
+				text-shadow: 0px 1px 5px rgba(0, 0, 0, 0.3);
 			}
 
 			h1 {
@@ -76,6 +80,18 @@
 	}
 
 	.coverGradient {
-		background: linear-gradient(to bottom, rgba(0,0,0,0)0%, rgba(0,0,0,.3) 40%);
+	    position: absolute;
+	    width: 100%;
+	    height: 190px;
+	    bottom: 0px;
+	    background: green;
+	    z-index: 0;
+
+		background: linear-gradient(to bottom, transparent 0%, rgba(0, 0, 0, 0.3) 70%);
+		background: -moz-linear-gradient(to bottom, rgba(0,0,0,0)0%, rgba(0,0,0,.3) 40%);
+		background: -o-linear-gradient(to bottom, rgba(0,0,0,0)0%, rgba(0,0,0,.3) 40%);
+		background: -webkit-linear-gradient(to bottom, rgba(0,0,0,0)0%, rgba(0,0,0,.3) 40%);
+
+		// background-color: green;
 	}
 }

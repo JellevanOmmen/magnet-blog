@@ -1,9 +1,11 @@
 <header class="page-header cover" style="background-image: url({{page.cover}});">
-      <div class="container">
+      
       	<div class="headerContent">
+      		<div class="container">
 	      	<p class="tags">{{page | tags}}</p>
 	      	<h1>{{page.title}}</h1>    
 	      	<p class="post-meta">{% if page.author %} Posted by {{ page.author }} on {% endif %} {{ page.date | date: "%b %-d, %Y" }} {% if page.meta %} • {{ page.meta }}{% endif %}</p>
 	    </div>
 	</div>
+	<div class="coverGradient"></div>
 </header>

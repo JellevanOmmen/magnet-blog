@@ -5,7 +5,7 @@
 		  	<fieldset role="search">
 				<div class="input-group">	
 		    		<input type="hidden" name="q" value="site:blog.magnet.me">
-		    		<input class="form-control" type="search" name="q" results="0" placeholder="Search">
+		    		<input class="form-control" type="text" name="q" results="0" placeholder="Search">
 					<span class="input-group-btn">
 				        <button class="btn btn-default" type="button"><span class="fa fa-search"></span></button>
 				    </span>
@@ -28,7 +28,7 @@
 		</ul>
 	</section>
 
-	<section class="sidebar-module">
+	<section class="sidebar-module tag-cloud">
 		<h4>Topics</h4>
 		 {{ site | tag_cloud }}
 	</section>
