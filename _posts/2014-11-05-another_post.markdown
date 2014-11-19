@@ -2,7 +2,6 @@
 layout: post
 title:  "Another Great blog post"
 date:   2014-11-04 20:47:24
-categories: jekyll update
 author: Alex Nederlof
 tags: [Tag 1, Tag 2, Another Tag]
 ---
