@@ -2,7 +2,7 @@
 * Basic styling
 */
 body {
-font-family: $base-font-family;
+font-family: Roboto,"Helvetica Neue",Helvetica,Arial,sans-serif;
 font-size: $base-font-size;
 line-height: $base-line-height;
 font-weight: 300;
@@ -19,7 +19,6 @@ h4, .h4,
 h5, .h5,
 h6, .h6 {
 margin-top: 0;
-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 font-weight: normal;
 color: #333;
 }
@@ -30,7 +29,7 @@ color: #333;
 */
 
 @media (min-width: 1200px) {
-.container {
-width: 970px;
-}
+	.container {
+		width: 970px;
+	}
 }

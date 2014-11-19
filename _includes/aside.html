@@ -1,6 +1,6 @@
 <aside class="blog-sidebar">
 
-	<section class="sidebar-module sidebar-module-inset">
+	<section class="sidebar-module sidebar-module-inset aside-search">
 		<form action="http://google.com/search" method="get">
 		  	<fieldset role="search">
 				<div class="input-group">	
@@ -14,18 +14,18 @@
 		</form>
 	<section class="sidebar-module sidebar-module-inset">
 
-	<section class="sidebar-module sidebar-module-inset">
+	<section class="sidebar-module sidebar-module-inset aside-about">
 		<h4>About</h4>
-		<p>Network for students, graduates and employers that delivers a 180 degree turnaround of the recruitment process.</p>
+		<p>Network for students, graduates and employers that delivers a 180 degree turnaround of the recruitment process.</p>	
 	</section>
 
 	<section class="sidebar-module">
 		<h4>Recent stories</h4>
+		<ul class="list-unstyled">
 		{% for post in site.posts %}
-			<ul class="list-unstyled">
-				<a href="{{ post.url }}">{{ post.title }}</a>
-			</ul>
+			<li><a href="{{ post.url }}">{{ post.title }}</a></li>
 		{% endfor %}
+		</ul>
 	</section>
 
 	<section class="sidebar-module">
@@ -37,9 +37,10 @@
 	<section class="sidebar-module">
 		<h4>Meet us on:</h4>
 		<ol class="list-unstyled">
-			<li><a href="https://github.com/magnetme">GitHub</a></li>
-			<li><a href="https://twitter.com/magnetdotme">Twitter</a></li>
+			<li><a href="https://magnet.me">Magnet.me</a></p></li>
 			<li><a href="https://www.facebook.com/magnetdotme">Facebook</a></li>
+			<li><a href="https://twitter.com/magnetdotme">Twitter</a></li>
+			<li><a href="https://github.com/magnetme">GitHub</a></li>			
 		</ol>
 	</section>
 </aside><!-- /.blog-sidebar -->
