@@ -13,6 +13,8 @@ It's where your best messaging originates and where most of your prospective cli
 
 Not convinced? Here are 6 reasons that might change your mind:
 
+<!--more-->
+
 1. Your blog is your platform for sharing your values, core messages and unique perspective. It’s a narrative that starts chain reactions. People who find value in your words will share them with their lists.
 
 2. Your blog spreads your messages to a wider audience. Readers who follow you on Facebook, Twitter, Google + and Linked In will go to your blog for more in-depth content.
@@ -24,5 +26,6 @@ Not convinced? Here are 6 reasons that might change your mind:
 5. Your Blog is where you begin to influence, persuade and move your prospects to act. It's where they begin to know, like and trust you.
 
 6. Your blog is where you become recognized as a thought leader. It’s where you introduce your burgeoning ones and get a feel for what challenges your readers most.
+
 
 So what are you waiting for? Why aren’t you blogging?

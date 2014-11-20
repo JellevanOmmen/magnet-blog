@@ -12,3 +12,6 @@ markdown: kramdown
 
 tag_page_layout: tag_page
 tag_page_dir: tag
+
+recent_posts: 5       # Posts in the sidebar Recent Posts section
+excerpt_separator: "<!--more-->"

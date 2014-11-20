@@ -29,7 +29,7 @@
 */
 .blog-main {
 	font-size: 16px;
-	line-height: 1.5;
+	line-height: 1.7;
 	margin-top: 27px;
 }
 
@@ -58,9 +58,17 @@
 
 	.post-meta {
 		font-size: 16px;
-		color: $gray;
+		color: $gray-medium;
+		padding-bottom: 4px;
+	}
+
+	.post-header {
+		a:hover {
+			text-decoration: none;			
+		}		 
 	}
 }
+
 .blog-post-title {
 	margin-bottom: 5px;
 	font-size: 40px;	
@@ -77,17 +85,43 @@
 
 .blog-footer {
 	padding: 40px 0;
-	color: #999;
+	color: $gray-medium;
+
+	a {
+		color: $gray-medium;		
+	}
+
 	text-align: center;
 	background-color: #f9f9f9;
 	border-top: 1px solid #e5e5e5;
+
+	p:last-child {
+		margin-bottom: 0;
+	}
+
+	ul.metaList {
+		font-size: 12px;
+		list-style: none;
+		text-align: center;
+		padding: 0px;
+		margin: 0px;
+		padding-top: 9px;
+
+		li {
+			display: inline-block;
+			padding: 0 18px;
+			border-left: 0 solid #ccc;			
+		}
+	}
 }
-.blog-footer p:last-child {
-	margin-bottom: 0;
+
+.post-content p {
+	margin-bottom: 27px;
 }
 
 .tag-cloud {
 	a {
 		display: block;
+		padding: 1px 0;
 	}
 }

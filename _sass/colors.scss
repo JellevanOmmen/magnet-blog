@@ -29,9 +29,17 @@ $itemHoverBg: $gray-lighter;
 
 $badge-bg: $red;
 $btn-primary-bg: $red;
-$btn-default-bg: $gray-darker;
-$btn-default-color: $white;
-$btn-default-border: darken($btn-default-bg, 5%);
+
+// We don't want this on the blog:
+// $btn-default-bg: $gray-darker;
+// $btn-default-color: $white;
+//$btn-default-border: darken($btn-default-bg, 5%);
+$link-color: $blue;
+// $external-link-color: $gray-dark;
+// $action-link-color: $blue;
+// $list-link-color: $gray-dark;
+
+
 $btnLightBg : $gray-lighter;
 $btnLightColor: $text-color;
 $btnLightBorder: $gray;
@@ -50,10 +58,6 @@ $btn-primary-bg: $red;
 
 $dropdownHeaderColor: $red;
 
-$link-color: $red;
-$external-link-color: $gray-dark;
-$action-link-color: $blue;
-$list-link-color: $gray-dark;
 
 $facebook-blue: #3b5998;
 $twitter-blue: #55ACEE;
