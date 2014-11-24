@@ -22,4 +22,4 @@ We are a young, dedicated and passionate team, that works hard everyday to make 
 
 Two years after launching Magnet.me, our team did not only grow from 3 to 27 people, but we also became the leading career exploration tool in the Netherlands with over half of all Dutch university graduates having an account on Magnet.me. Besides that, over 500 companies, from multinationals to startups, now use Magnet.me to get in touch with their future employees and interns. Regardless of what we have already accomplished, we are not quite there yet, because a lot of opportunities are still waiting to be unveiled to the right candidates. So you can still expect a lot from us and we will write about it here. So stay tuned!
 
-(If you want to know more about us: <a href="https://magnet.me/student/#!/organization/magnet.me/about" target="_blank">https://magnet.me/student/#!/organization/magnet.me/about</a>.
+<a href="https://magnet.me/student/#!/organization/magnet.me/about" target="_blank" title="Magnet.me company page">Click here</a> if you want to know more about us.

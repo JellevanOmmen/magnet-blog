@@ -13,6 +13,12 @@
 		color: $gray-medium;
 		a {
 			color: $gray-medium;
+			text-transform: lowercase;
+			font-weight:500;
+			
+			&:before{
+				content: "#";
+			}
 		}
 	}
 }

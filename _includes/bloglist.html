@@ -6,7 +6,9 @@
       <p class="post-meta">{% if post.author %} Posted by {{ post.author }} on {% endif %} {{ post.date | date: "%b %-d, %Y" }} {% if post.meta %} • {{ post.meta }}{% endif %}</p>
     
       {% if post.cover %}
-          <img class="img-responsive coverPreview" src="{{post.cover}}">
+		 <a href="{{ post.url }}" title="{{ post.title }}">
+         	<img class="img-responsive coverPreview" src="{{post.cover}}">
+		</a>
       {% endif %}
     
     </header>

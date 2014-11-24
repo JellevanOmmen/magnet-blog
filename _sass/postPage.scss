@@ -61,6 +61,15 @@
 			.post-meta {
 				padding-bottom: 4px;
 			}
+			
+			.tags a{
+				text-transform: lowercase;
+				font-weight:500;
+				
+				&:before{
+					content: "#";
+				}
+			}
 		}
 
 		@media (max-width: $screen-md-min) {
