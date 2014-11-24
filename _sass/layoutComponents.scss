@@ -73,6 +73,7 @@
 	margin-bottom: 5px;
 	font-size: 40px;	
 }
+
 .blog-post-meta {
 	margin-bottom: 20px;
 	color: #999;
@@ -123,5 +124,10 @@
 	a {
 		display: block;
 		padding: 1px 0;
+		text-transform: lowercase;
+
+		&:before{
+			content: "#";
+		}
 	}
 }
