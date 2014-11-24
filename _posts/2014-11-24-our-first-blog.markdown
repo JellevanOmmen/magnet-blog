@@ -3,7 +3,7 @@ layout: post
 title:  "Introducing the Magnet.me blog"
 date:   2014-11-24 09:01:24
 author: Vincent Karremans
-tags: [Some tag, Another Tag]
+tags: [Update]
 cover: /images/posts/introducing-magnetme.jpg
 ---
 On this blog, we will share our journey and the steps we take in order to enable people like you to grab the opportunities that lead to a great start of their career. In doing so we simultaneously empower every company to easily and effectively attract the right employees in order for them to grow their organisation. 
@@ -22,4 +22,4 @@ We are a young, dedicated and passionate team, that works hard every day to make
 
 Two years after launching Magnet.me, our team did not only grow from 3 to 27 people, but we also became the leading career exploration tool in the Netherlands with over half of all Dutch university graduates already having created an account on Magnet.me. Besides that, over 500 companies, from multinationals to startups, now use Magnet.me to get in touch with their future employees and interns. But we are not quite there yet. A lot of opportunities are still waiting to be unveiled to the right candidates. So you can still expect a lot from us. We will write about it here, so stay tuned. 
 
-(If you want to know more about us: [https://magnet.me/student/#!/organization/magnet.me/about](https://magnet.me/student/#!/organization/magnet.me/about))
+(If you want to know more about us: <a href="https://magnet.me/student/#!/organization/magnet.me/about" target="_blank">https://magnet.me/student/#!/organization/magnet.me/about</a>.
