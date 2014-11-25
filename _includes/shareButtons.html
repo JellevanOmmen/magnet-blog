@@ -1,0 +1,34 @@
+{% comment %}
+From: http://kurtnoble.com/labs/rrssb/
+{% endcomment %}
+
+{% assign shareURL = page.url | prepend: site.baseurl | prepend: site.url | uri_escape %}
+{% assign escapedTitle = page.title | uri_escape %}
+<p class="small lead">Share article on:</p> 
+<ul class="rrssb-buttons clearfix">
+    <li class="rrssb-twitter">
+        <a href="http://twitter.com/home?status={{escapedTitle}}%20{{shareURL}}%20via%20%40magnetdotme%0A" class="popup">
+            {% include rrsb/twitter_icon.html %}
+        </a>
+    </li>
+    <li class="rrssb-facebook">
+        <a href="https://www.facebook.com/sharer/sharer.php?u={{shareURL}}" class="popup">
+            {% include rrsb/facebook_icon.html %}
+        </a>
+    </li>  
+    <li class="rrssb-linkedin">
+        <a href="http://www.linkedin.com/shareArticle?mini=true&url={{shareURL}}" class="popup">
+            {% include rrsb/linked_in_icon.html %}
+        </a>
+    </li>
+    <li class="rrssb-googleplus">
+        <a href="https://plus.google.com/share?url={{shareURL}}%20{{escapedTitle}}" class="popup">
+            {% include rrsb/google_icon.html %}
+        </a>
+    </li>
+    <li class="rrssb-email">
+        <a href="mailto:?subject={{escapedTitle}};body={{escapedTitle}}%20{{shareURL}}">
+           {% include rrsb/mail_icon.html %}
+        </a>
+    </li>
+</ul>
