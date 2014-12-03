@@ -122,8 +122,16 @@
 	}
 }
 
-.post-content p {
-	margin-bottom: 27px;
+.post-content {
+	p {
+		margin-bottom: 27px;
+
+		img {
+			display: block;
+			max-width: 100%;
+			height: auto;
+		}
+	}
 }
 
 .tag-cloud {
