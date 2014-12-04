@@ -6,9 +6,9 @@ author: Vincent Karremans
 tags: [Update]
 cover: /images/posts/introducing-magnetme.jpg
 ---
-<p class="lead">In this blog, we will share our journey and the steps we take to enable people like you to grab the opportunities that will lead to a great start of their career.</p>
+<p class="intro">In this blog, we will share our journey and the steps we take to enable people like you to grab the opportunities that will lead to a great start of their career.<br/><br/>
 
-<p class="lead">We will present you with some useful tips on how you can optimally use Magnet.me (which we happen to know a lot about) and of course share our insights on the labour market with you. But let’s start this blog off by telling you our story and a bit of our philosophy.</p>
+We will present you with some useful tips on how you can optimally use Magnet.me (which we happen to know a lot about) and of course share our insights on the labour market with you. But let’s start this blog off by telling you our story and a bit of our philosophy.</p>
 
 <!--more-->
 
