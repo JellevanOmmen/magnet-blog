@@ -131,6 +131,14 @@
 			max-width: 100%;
 			height: auto;
 		}
+		
+		&.lead{
+			line-height: 1.6;
+		}
+		
+		&:first-child{
+			font-weight:500;	
+		}
 	}
 }
 

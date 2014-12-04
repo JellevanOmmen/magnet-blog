@@ -6,13 +6,13 @@ author: Vincent Karremans
 tags: [Update]
 cover: /images/posts/introducing-magnetme.jpg
 ---
-> **In this blog, we will share our journey and the steps we take to enable people like you to grab the opportunities that will lead to a great start of their career.**
+<p class="lead">In this blog, we will share our journey and the steps we take to enable people like you to grab the opportunities that will lead to a great start of their career.</p>
 
-We will present you with some useful tips on how you can optimally use Magnet.me (which we happen to know a lot about) and of course share our insights on the labour market with you.
-
-But let’s start this blog off by telling you our story and a bit of our philosophy. 
+<p class="lead">We will present you with some useful tips on how you can optimally use Magnet.me (which we happen to know a lot about) and of course share our insights on the labour market with you. But let’s start this blog off by telling you our story and a bit of our philosophy.</p>
 
 <!--more-->
+
+---
 
 We created Magnet.me based on our own experiences while exploring the labour market: a market crowded with intermediaries, unpersonal career websites and aggressive recruitment agencies. It just didn’t work well - yet. As a graduate, you only came into contact with big firms with even bigger recruitment budgets, who can afford attending a career fair, posting a vacancy on a career website, or hiring someone through a recruitment agency. These are not things a startup or small- or medium enterprise would do. We also noticed that on social media we were only following the companies we already knew. __Result: you miss out on a lot of opportunities__.  Not that this would be your fault: you simply didn’t know…. And that’s exactly the problem, right there.
 
