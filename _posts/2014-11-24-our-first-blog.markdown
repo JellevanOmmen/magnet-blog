@@ -6,7 +6,7 @@ author: Vincent Karremans
 tags: [Update]
 cover: /images/posts/introducing-magnetme.jpg
 ---
-In this blog, we will share our journey and the steps we take to enable people like you to grab the opportunities that will lead to a great start of their career.
+> **In this blog, we will share our journey and the steps we take to enable people like you to grab the opportunities that will lead to a great start of their career.**
 
 We will present you with some useful tips on how you can optimally use Magnet.me (which we happen to know a lot about) and of course share our insights on the labour market with you.
 

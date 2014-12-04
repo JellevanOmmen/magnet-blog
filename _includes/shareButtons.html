@@ -4,7 +4,7 @@ From: http://kurtnoble.com/labs/rrssb/
 
 {% assign shareURL = page.url | prepend: site.baseurl | prepend: site.url | uri_escape %}
 {% assign escapedTitle = page.title | uri_escape %}
-<p class="small lead">Share article on:</p> 
+<p class="small lead"><strong>Share this article on:</strong></p> 
 <ul class="rrssb-buttons clearfix">
     <li class="rrssb-twitter">
         <a href="http://twitter.com/home?status={{escapedTitle}}%20{{shareURL}}%20via%20%40magnetdotme%0A" class="popup">
