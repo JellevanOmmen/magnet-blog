@@ -51,4 +51,4 @@ Feeling stressed or just land a big deal? At Optiver there’s always the option
 
 ---
 
-Looking for all of the above? Perhaps consider [applying at Google](https://magnet.me/company/google-ireland-ltd./about),where you can (obviously) find all of the above .
+Looking for all of the above? Perhaps consider [applying at Google](https://magnet.me/company/google-ireland-ltd./about), where you can (obviously) find all of the above .
