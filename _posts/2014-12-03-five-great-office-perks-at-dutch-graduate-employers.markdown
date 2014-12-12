@@ -3,6 +3,7 @@ layout: post
 title:  "5 great office perks at Dutch graduate employers"
 date:   2014-12-03 10:01:24
 category: Editorial
+tags: ['offices']
 cover: /images/posts/five-perks/header.jpg
 ---
 <p class="intro">When it comes to office perks, you immediately think of Silicon Valley, right? If you are not one of those people who wants to work in Palo Alto because you love the Dutch weather, but still want free and unlimited quinoa-salads and get hairstyled while playing pingpong at work, here are five of the coolest perks at Dutch offices.</p>

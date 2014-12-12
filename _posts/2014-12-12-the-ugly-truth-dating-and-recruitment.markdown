@@ -3,6 +3,7 @@ layout: post
 title:  "The ugly truth about dating and finding a job"
 date:   2014-12-12 10:01:24
 category: Editorial
+tags: ['PersonalBranding']
 cover: /images/posts/recruitment-and-dating.png
 ---
 <p class="intro">As a graduate you are typically involved in two important things: dating and finding a job. Whether or not you have made the comparison before, one thing is quite clear; the ugly truth is that both have quite a bit of similarities. Therefore being the perfect date, not only helps you in the dating world but can also help you land the job you’re applying for. Here’s why... 
