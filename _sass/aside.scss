@@ -1,5 +1,13 @@
 .blog-sidebar {
 	margin-top: 15px;
+	
+	@media (max-width: 768px){	
+		margin: 15px 0;
+		
+		ul li{
+			line-height: 2;
+		}
+	}
 
 	/* Sidebar modules for boxing content */
 	.sidebar-module {
@@ -29,3 +37,5 @@
 		}	
 	}
 }
+
+	
