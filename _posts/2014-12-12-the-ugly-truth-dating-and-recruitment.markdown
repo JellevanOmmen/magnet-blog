@@ -35,11 +35,11 @@ Everyone is familiar with the anxiety right before a first date or job interview
  
 Regardless of whether the outcome is positive or negative the first face-to-face encounter is always exciting, and when both parties have a positive attitude about the experience, the next step can be taken.
  
-# Step 3: Taking the next step
+# Stage 3: Taking the next step
  
 We’re all familiar with the phrase *taking the next step*, whether referring to dating or finding a job. Once both parties have decided that they are interested in building a future together this process begins. As rules are established and as you familiarize yourself with one another things develop…
  
-# Step 4: Cutting things off
+# Stage 4: Cutting things off
  
 There comes a time in some relationships, where things just don’t seem to work anymore;  a conflict, spending hours on things that just don’t work out, and then it happens… you break up!
  
