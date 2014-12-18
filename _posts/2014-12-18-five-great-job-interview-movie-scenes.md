@@ -6,7 +6,7 @@ category: Editorial
 tags: ['PersonalBranding']
 cover: /images/posts/5_job_interview_movie_scenes.jpg
 ---
-<p class="intro">Job interviews are mostly nerve wrecking, sometimes even scary and absolutely never funny. Surprisingly enough, Hollywood portaits them as a showcase of bravery, fun and even inspiration. (But then again, just look out of the window if you want reality)  
+<p class="intro">Job interviews are mostly nerve wrecking, sometimes even scary and absolutely never funny. Surprisingly enough, Hollywood portrays them as a showcase of bravery, fun and even inspiration. (But then again, just look out of the window if you want reality.)  
 
 We have collected five of the best job interview scenes Hollywood has to offer... and added some useful takeaways for your next job interview. 
 </p>
@@ -20,7 +20,7 @@ Vince Vaughn and Owen Wilson break out in a cold sweat answering a Google interv
 {% youtube XYG6tAMWFIo 640 360 %}
 <small>► start - 01:38s</small>
 
-**Take-away:** Try to come up with answers that are creative, but realistic. Even when the questions itselves might be a bit odd..
+**Take-away:** Try to come up with answers that are creative, but realistic. Even when the questions themselves might be a bit odd..
  
 ## 4. Transformers 3 
 
