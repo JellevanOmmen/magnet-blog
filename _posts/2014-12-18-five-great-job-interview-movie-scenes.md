@@ -18,7 +18,7 @@ We have collected five of the best job interview scenes Hollywood has to offer..
 Vince Vaughn and Owen Wilson break out in a cold sweat answering a Google interview question. 
 
 {% youtube XYG6tAMWFIo 640 360 %}
-<small>► start - 1:38s</small>
+<small>► start - 01:38s</small>
 
 **Take-away:** Try to come up with answers that are creative, but realistic. Even when the questions itselves might be a bit odd..
  
@@ -27,7 +27,7 @@ Vince Vaughn and Owen Wilson break out in a cold sweat answering a Google interv
 > “So it all depends on how you respond to my two next two words: Impress. Me.”
 
 {% youtube H7eWZFgo2xI 640 360 %}	
-<small>► 1:37s - 2:55s</small>
+<small>► 01:37s - 02:55s</small>
 
 **Take-away:** Be confident, even if you’re not sure how to respond. Remember that what you say (the content) only counts for 20% of the total impression you give.
 
@@ -51,6 +51,6 @@ Why not wear a tuxedo and bring a mate to your job interview?
 This must be one of the most inspiring job interviews ever. Four suits vs Will Smith not wearing a shirt… 
 
 {% youtube gHXKitKAT1E 640 360 %} 
-<small>► 10s - 3:9s</small>
+<small>► 00:10s - 03:09s</small>
 
 **Take-away:** Even when everything goes wrong before an interview: show up and go for it!
