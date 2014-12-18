@@ -145,3 +145,23 @@
 		}
 	}
 }
+
+
+.youtube {
+	width: 100%;
+	height: 400px;
+
+	@media (max-width: $screen-md-min) {
+		height: 350px; 	
+	}
+
+	@media (max-width: $screen-sm-min) { 
+		height: 300px; 
+	}
+
+	@media (max-width: $screen-xs-min) { 
+		height: 200px; 
+	}
+}
+
+
