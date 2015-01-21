@@ -2,7 +2,6 @@
 layout: post
 title:  "Introducing the Magnet.me blog"
 date:   2014-11-24 09:01:24
-author: Vincent Karremans
 tags: [Update]
 cover: /images/posts/introducing-magnetme.jpg
 ---

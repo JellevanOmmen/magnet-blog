@@ -2,8 +2,8 @@
 layout: post
 title:  "Let’s apply away: where Dutch companies will take you to make you start your career with them"
 date:   2015-01-21 11:13:24
-author: Vincent Karremans
 tags: [Update]
+cover: /images/posts/lets-apply-away--where-dutch-companies-will-take-you/cover.jpg
 ---
 <p class="intro">Ever wanted to combine exploring the labour market and discovering new cities, have breakfast in New York while learning about career opportunities or party in Shanghai while getting familiar with a firm’s culture? A lot of Dutch employers organise business courses all over the globe to convince you to start your career with them.</p>
 
